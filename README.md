@@ -13,6 +13,7 @@
 
 - https://codewars.com/users/gkucmierz
 - https://hackerrank.com/gkucmierz
+- https://exercism.io/profiles/gkucmierz
 - https://freecodecamp.org/gkucmierz
 - https://challengerocket.com/profile/gkucmierz
 - https://pl.spoj.com/users/gkucmierz
