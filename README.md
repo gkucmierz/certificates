@@ -9,6 +9,9 @@
 * ##### FreeCodeCamp
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/gkucmierz/javascript-algorithms-and-data-structures)
 
+* ##### testdome.com
+  - [JavaScript](https://www.testdome.com/cert/34b5c07d48de49f7a61e4f12905cb1ba)
+
 ### Coding profiles
 
 - https://codewars.com/users/gkucmierz
