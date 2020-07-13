@@ -21,4 +21,4 @@
 - https://challengerocket.com/profile/gkucmierz
 - https://pl.spoj.com/users/gkucmierz
 - https://codingame.com/profile/15ea37cb5ebe047bdc6658699d5646376032351
-- https://auth.geeksforgeeks.org/user/gkucmierz/profile
+- https://auth.geeksforgeeks.org/user/gkucmierz
