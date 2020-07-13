@@ -5,6 +5,7 @@
   - [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/55ffbf4fe883)
   - [Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/4060a54858e6)
   - [Python (Basic) Certificate](https://www.hackerrank.com/certificates/d2972057dd29)
+  - [Angular (Basic) Certificate](https://www.hackerrank.com/certificates/4b141a914477)
 
 * ##### FreeCodeCamp
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/gkucmierz/javascript-algorithms-and-data-structures)
