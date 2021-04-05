@@ -17,6 +17,7 @@
 
 ### Coding profiles
 
+- https://leetcode.com/gkucmierz
 - https://codewars.com/users/gkucmierz
 - https://hackerrank.com/gkucmierz
 - https://exercism.io/profiles/gkucmierz
@@ -25,3 +26,4 @@
 - https://pl.spoj.com/users/gkucmierz
 - https://codingame.com/profile/15ea37cb5ebe047bdc6658699d5646376032351
 - https://auth.geeksforgeeks.org/user/gkucmierz
+- https://js.checkio.org/user/gkucmierz
