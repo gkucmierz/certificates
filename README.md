@@ -28,4 +28,3 @@
 - https://auth.geeksforgeeks.org/user/gkucmierz
 - https://js.checkio.org/user/gkucmierz
 - https://cryptohack.org/user/gkucmierz
-- 
